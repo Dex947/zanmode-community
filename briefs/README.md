@@ -1,6 +1,6 @@
 # Briefs
 
-A brief is a piece of work we want done. Open briefs are the [issues labelled brief](../../../issues?q=is%3Aopen+label%3Abrief).
+A brief is a piece of work we want done. None are open yet. When they open they'll be [issues labelled brief](../../../issues?q=is%3Aopen+label%3Abrief), and each new one is announced in [Announcements](../../../discussions/categories/announcements).
 
 ## What every brief says
 

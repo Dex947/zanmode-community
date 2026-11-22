@@ -1,8 +1,8 @@
 # Test studio
 
-For testers, bug hunters and security researchers.
+For testers, bug hunters and security specialists.
 
-## What you can do now
+## What the studio does
 
 - Try the Lab on different phones, tablets and computers, and report what breaks or confuses you.
 - Try new features before they go live, and tell us what works.

@@ -2,7 +2,7 @@
 
 For industrial designers, colour and finish designers, visual and motion designers, sound designers and 3D artists.
 
-## What you can make now
+## What the studio makes
 
 - Ready-made looks for people who'd rather not design their own: a back, a camera island, and colours and finishes that work together.
 - Startups and lock screens: the first thing someone sees when the phone turns on.

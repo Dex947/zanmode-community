@@ -2,7 +2,7 @@
 
 For app, system and tools developers, and accessibility specialists.
 
-## What you can make now
+## What the studio makes
 
 - Themes and lock screens.
 - Tools for owners and repairers.

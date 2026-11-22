@@ -1,5 +1,8 @@
 blank_issues_enabled: false
 contact_links:
+  - name: New here? Start here
+    url: https://github.com/Dex947/zanmode-community/discussions/8
+    about: What ZanMode is, where things stand and how the community is organised.
   - name: Talk to the community
     url: https://zanmode.com/discord
     about: Studio channels, questions and events on Discord.

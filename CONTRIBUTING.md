@@ -6,7 +6,7 @@ Thanks for wanting to help. Here's how to take part.
 
 1. Join the [Discord](https://zanmode.com/discord) and pick your studios when it asks. You'll get the channels for them.
 2. Say hello in #introductions: what you do and what you'd like to make.
-3. Look at the open [briefs](../../issues?q=is%3Aopen+label%3Abrief). Pick one or post your own idea in [Discussions](../../discussions/categories/ideas).
+3. Briefs aren't open yet. When they are, they'll be announced in [Announcements](../../discussions/categories/announcements). Until then, share what you've made in [Show and tell](../../discussions/categories/show-and-tell) and post ideas in [Ideas](../../discussions/categories/ideas).
 
 ## Ways to help
 

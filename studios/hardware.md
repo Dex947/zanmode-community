@@ -2,7 +2,7 @@
 
 For electronics, mechanical, thermal and radio engineers, and repairers.
 
-## What you can make now
+## What the studio makes
 
 - Cases, docks, stands, chargers and other accessories.
 - Tools that make repair easier.

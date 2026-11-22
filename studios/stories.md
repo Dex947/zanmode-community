@@ -2,7 +2,7 @@
 
 For video creators, writers, translators and hosts.
 
-## What you can make now
+## What the studio makes
 
 - Guides on building a phone for gaming, photos, battery life or a small hand.
 - Build videos and reviews of what people design in the Lab.
