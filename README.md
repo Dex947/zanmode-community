@@ -1,6 +1,6 @@
 # ZanMode community
 
-ZanMode is a phone you design yourself, part by part. In the Lab at [zanmode.com](https://zanmode.com) you pick the screen, chip, cameras, battery, cooling and body, see it in 3D, and see what every choice changes. Launching soon.
+ZanMode is a phone you design yourself part by part. In the Lab at [zanmode.com](https://zanmode.com) you pick the screen, chip, cameras, battery, cooling and body, see it in 3D, and see what every choice changes. Launching soon.
 
 This is where designers, electronics engineers, software developers, testers, writers and creators meet to make those phones better.
 
