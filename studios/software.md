@@ -11,7 +11,7 @@ For app, system and tools developers, and accessibility specialists.
 ## What we give you
 
 - The theme, lock screen and wallpaper specs.
-- Access to new features in the Lab before they go live, to check them.
+- Early access to new features in the Lab so you can check them before they go live.
 
 Ask in #software-studio for the latest files.
 

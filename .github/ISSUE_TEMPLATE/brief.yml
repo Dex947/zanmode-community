@@ -20,7 +20,7 @@ body:
     id: problem
     attributes:
       label: The problem
-      description: What people need, and why it matters.
+      description: What people need and why it matters.
     validations:
       required: true
   - type: textarea
@@ -34,7 +34,7 @@ body:
     id: bar
     attributes:
       label: The bar
-      description: What counts as done, and how it will be checked.
+      description: What counts as done and how it will be checked.
     validations:
       required: true
   - type: textarea
@@ -47,7 +47,7 @@ body:
     id: reward
     attributes:
       label: What you get
-      description: Credit, prize or payment, and when it's paid.
+      description: Credit, prize or payment and when it's paid.
     validations:
       required: true
   - type: input

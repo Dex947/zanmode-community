@@ -1,6 +1,6 @@
 # Leaderboard data
 
-`scripts/leaderboard.mjs` runs every Monday and writes one JSON and one Markdown file per season here, plus [LEADERBOARD.md](../LEADERBOARD.md) at the top of the repository.
+`scripts/leaderboard.mjs` runs every Monday and writes one JSON and one Markdown file per season here and also updates [LEADERBOARD.md](../LEADERBOARD.md) at the top of the repository.
 
 Work that happens off GitHub, like helping a newcomer to their first accepted work or answering questions on Discord, goes in `manual.json`. Maintainers add it by pull request so there's a record:
 

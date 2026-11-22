@@ -4,15 +4,15 @@ For industrial designers, colour and finish designers, visual and motion designe
 
 ## What you can make now
 
-- Ready-made looks: a back, a camera island, colours and finishes that work together, for people who'd rather not design their own.
+- Ready-made looks for people who'd rather not design their own: a back, a camera island, and colours and finishes that work together.
 - Startups and lock screens: the first thing someone sees when the phone turns on.
 - Sounds: startup sounds, ringtones and notification sounds.
 - Emblems: marks people can put on the back of their phone.
-- 3D models of parts for the Lab, so the phone on screen looks more like the real thing.
+- 3D models of parts that make the phone in the Lab look more like the real thing.
 
 ## What we give you
 
-- The outline, camera island position and part sizes for any build in the Lab, so your design fits a real phone.
+- The outline, camera island position and part sizes for any build in the Lab so your design fits a real phone.
 - Templates for backs and camera islands.
 - The colours and finishes on offer.
 - The specs for emblems, startups and sounds: sizes, lengths and file formats.
@@ -22,7 +22,7 @@ Ask in #design-studio for the latest files.
 
 ## How work is judged
 
-Each brief lists its criteria. For challenges, a jury of the studio lead, the team and studio members scores every entry against them, and people who use the Lab vote too, counting as one juror.
+Each brief lists its criteria. For challenges, a jury made up of the studio lead, the team and studio members scores every entry against them. People who use the Lab vote too and together count as one juror.
 
 ## What's next
 

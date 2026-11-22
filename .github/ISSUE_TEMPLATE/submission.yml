@@ -34,20 +34,20 @@ body:
     id: others
     attributes:
       label: Anything you used that isn't yours
-      description: Fonts, models, code, music or photos, with their licences. Write "None" if there's nothing.
+      description: Fonts, models, code, music or photos along with their licences. Write "None" if there's nothing.
     validations:
       required: true
   - type: input
     id: team
     attributes:
       label: Made with
-      description: GitHub handles of anyone who made this with you, so they get credit too.
+      description: GitHub handles of anyone who made this with you so they get credit too.
   - type: checkboxes
     id: terms
     attributes:
       label: Before you send it
       options:
-        - label: This is my own work, or I have the right to use everything in it.
+        - label: This is my own work or I have the right to use everything in it.
           required: true
         - label: It contains nothing confidential from an employer or anyone else.
           required: true

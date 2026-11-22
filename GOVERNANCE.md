@@ -16,7 +16,7 @@ Makers work in five studios: [Design](studios/design.md), [Hardware](studios/har
 | Maintainer | You look after an area: a set of looks, an accessory, a translation, a tool | Approve work in that area, help write its briefs |
 | Lead | Invited | Shape a studio's plans with the team, sit on judging panels |
 
-The studio lead moves people up when they meet the bar, and says why. If you think you're ready, ask in your studio channel.
+The studio lead moves people up when they meet the bar and explains why. If you think you're ready, ask in your studio channel.
 
 ## Hats
 
@@ -34,16 +34,16 @@ Some roles aren't steps up. You can take them on at any level:
 ## Seats and terms
 
 - Each studio has up to two Lead seats. A seat lasts a year and can be renewed.
-- A maintainer who is away for six months becomes emeritus. Their name stays in the credits, their review rights pause, and they can pick the area back up by asking.
-- Season Champion and Maker of the Month are titles, not steps on the ladder. They're given for a season or a month and then passed on. [Recognition](RECOGNITION.md) explains how.
+- A maintainer who is away for six months becomes emeritus. Their name stays in the credits and their review rights pause until they ask to pick the area back up.
+- Season Champion and Maker of the Month aren't steps on the ladder. They're titles that last a season or a month and then go to someone else. [Recognition](RECOGNITION.md) explains how.
 
 ## Decisions
 
-- Most decisions happen in the open, in the studio channel or on the issue they're about.
-- The studio lead decides when people don't agree, and writes down why.
-- Anything that goes inside a phone is approved by the ZanMode team, never by a vote. That covers batteries, charging, radio, heat and anything that touches the skin.
+- Most decisions happen in the open in the studio channel or on the issue they're about.
+- When people don't agree, the studio lead decides and writes down why.
+- Anything that goes inside a phone is approved by the ZanMode team and never put to a vote. That covers batteries, charging, radio, heat and anything that touches the skin.
 - If someone has a stake in a decision through their job or a client, they say so and someone else makes the call.
 
 ## Changes to these rules
 
-Anyone can propose a change with a pull request. The team decides, and changes are announced in Discord.
+Anyone can propose a change with a pull request. The team decides and announces changes in Discord.

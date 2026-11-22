@@ -14,6 +14,6 @@ body:
     id: why
     attributes:
       label: What they made or did
-      description: A few lines, with links if you have them. Help given to others counts as much as work shipped.
+      description: A few lines and any links you have. Helping others counts as much as shipping work.
     validations:
       required: true

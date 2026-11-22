@@ -6,7 +6,7 @@ Thanks for wanting to help. Here's how to take part.
 
 1. Join the [Discord](https://zanmode.com/discord) and pick your studios when it asks. You'll get the channels for them.
 2. Say hello in #introductions: what you do and what you'd like to make.
-3. Look at the open [briefs](../../issues?q=is%3Aopen+label%3Abrief). Pick one, or post your own idea in [Discussions](../../discussions/categories/ideas).
+3. Look at the open [briefs](../../issues?q=is%3Aopen+label%3Abrief). Pick one or post your own idea in [Discussions](../../discussions/categories/ideas).
 
 ## Ways to help
 
@@ -17,7 +17,7 @@ Thanks for wanting to help. Here's how to take part.
 | Report a problem on zanmode.com | Open a [site bug](../../issues/new?template=site-bug.yml) |
 | Report a security issue | Follow [SECURITY.md](SECURITY.md). Don't post it in public |
 | Improve these docs | Open a pull request |
-| Show what you made | Post it in Show and tell, or in your studio's channel |
+| Show what you made | Post it in Show and tell or in your studio's channel |
 | Run a meetup or call | Plan it in #meetups on Discord, then tell us [how it went](../../issues/new?template=event.yml) |
 | Thank someone | [Nominate them](../../issues/new?template=nomination.yml) for maker of the month |
 
@@ -32,17 +32,17 @@ Every brief says what to send. In general:
 
 What we need with every submission:
 
-- It's your own work, or you have the right to use everything in it.
-- You list anything you used that isn't yours: fonts, models, code, music or photos, with their licences.
+- It's your own work or you have the right to use everything in it.
+- You list any fonts, models, code, music or photos you used that aren't yours along with their licences.
 - Nothing confidential from an employer or anyone else.
 
 ## Ownership
 
-Your work stays yours while it's being reviewed. If it's accepted, you license it to ZanMode on the terms written in that brief, and your name goes on it. If it isn't accepted, it stays yours, with nothing owed either way.
+Your work stays yours while it's being reviewed. If it's accepted, you license it to ZanMode on the terms written in that brief, and your name goes on it. If it isn't accepted, it stays yours and nobody owes anything either way.
 
 ## Pull requests to this repository
 
-Sign off your commits with `git commit -s`. The sign-off says you wrote the change, or have the right to submit it, under the [Developer Certificate of Origin](https://developercertificate.org). Keep changes small and say why you made them.
+Sign off your commits with `git commit -s`. The sign-off says you wrote the change or have the right to submit it under the [Developer Certificate of Origin](https://developercertificate.org). Keep changes small and say why you made them.
 
 ## What happens after you submit
 

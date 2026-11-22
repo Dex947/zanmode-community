@@ -20,8 +20,8 @@ jobs:
           issue-message: |
             Thanks for opening your first issue here. Someone from the studio will reply within two days.
 
-            While you wait, say hello on [Discord](https://zanmode.com/discord), and have a look at how [recognition](https://github.com/Dex947/zanmode-community/blob/main/RECOGNITION.md) works.
+            While you wait, say hello on [Discord](https://zanmode.com/discord) and have a look at how [recognition](https://github.com/Dex947/zanmode-community/blob/main/RECOGNITION.md) works.
           pr-message: |
             Thanks for your first pull request. Someone from the studio will review it within two days.
 
-            Make sure each commit is signed off (`git commit -s`), as [CONTRIBUTING.md](https://github.com/Dex947/zanmode-community/blob/main/CONTRIBUTING.md) explains.
+            [CONTRIBUTING.md](https://github.com/Dex947/zanmode-community/blob/main/CONTRIBUTING.md) explains how to sign off each commit with `git commit -s`.

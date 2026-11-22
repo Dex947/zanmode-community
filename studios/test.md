@@ -14,4 +14,4 @@ Open a [site bug](../../../issues/new?template=site-bug.yml). Say what you did, 
 
 ## What's next
 
-Early software on real phones, and longer checks of battery, heat and drops once there are units to test.
+Early software on real phones and longer checks of battery, heat and drops once there are units to test.

@@ -2,7 +2,7 @@
 
 ZanMode is a phone you design yourself, part by part. In the Lab at [zanmode.com](https://zanmode.com) you pick the screen, chip, cameras, battery, cooling and body, see it in 3D, and see what every choice changes. Launching soon.
 
-This is where the people who make those phones better meet: designers, electronics engineers, software developers, testers, writers and creators.
+This is where designers, electronics engineers, software developers, testers, writers and creators meet to make those phones better.
 
 ## How it works
 
@@ -10,7 +10,7 @@ This is where the people who make those phones better meet: designers, electroni
 2. We post briefs: a look, an accessory, a feature, a translation, a guide.
 3. You answer a brief, or bring your own idea.
 4. The studio reviews it. Anything that goes inside a phone is also checked by our team.
-5. Accepted work shows up where people can pick it in the Lab, with your name on it.
+5. Accepted work shows up in the Lab for people to pick, and your name goes on it.
 
 ## Studios
 
@@ -32,7 +32,7 @@ You can join more than one.
 
 ## Get recognised
 
-Accepted work earns points for the season [leaderboard](LEADERBOARD.md), and each season's top three in every studio go in the [hall of fame](HALL_OF_FAME.md). There's also a maker of the month, roles you can grow into and a lounge for regulars. [Recognition](RECOGNITION.md) has the details, including what counts and how we keep it fair.
+Accepted work earns points for the season [leaderboard](LEADERBOARD.md), and each season's top three in every studio go in the [hall of fame](HALL_OF_FAME.md). There's also a maker of the month, roles you can grow into and a lounge for regulars. [Recognition](RECOGNITION.md) explains what counts, how the points work and how we keep it fair.
 
 ## Meet people near you
 
@@ -44,7 +44,7 @@ New here? Read [how to contribute](CONTRIBUTING.md) and the [code of conduct](CO
 
 What you make carries your name. When people pick your look, part or preset in the Lab, they see who made it. Every ZanMode phone will have a credits page listing the people whose work is inside it.
 
-Some briefs come with a prize or payment. Each one says so up front, with its own rules.
+Some briefs come with a prize or payment. Each one says so up front and comes with its own rules.
 
 ## How we run it
 
