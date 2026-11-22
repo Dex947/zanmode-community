@@ -1,0 +1,31 @@
+name: Event held
+description: Tell us about a meetup, call or session you ran.
+title: "Event: "
+labels: [event]
+body:
+  - type: dropdown
+    id: region
+    attributes:
+      label: Region
+      options: [Africa, Europe, North America, Latin America, Middle East, Asia Pacific, Online]
+    validations:
+      required: true
+  - type: input
+    id: when
+    attributes:
+      label: When
+      placeholder: 2026-12-05
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: Who came, what you worked on, and anything you'd do differently. Links to the #meetups post or photos are welcome.
+    validations:
+      required: true
+  - type: input
+    id: hosts
+    attributes:
+      label: Hosted with
+      description: GitHub handles of anyone who ran it with you.

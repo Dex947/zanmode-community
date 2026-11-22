@@ -1,0 +1,57 @@
+name: Brief
+description: Post a brief. For studio leads.
+labels: [brief]
+body:
+  - type: dropdown
+    id: studio
+    attributes:
+      label: Studio
+      options: [Design, Hardware, Software, Test, Stories]
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Kind
+      options: [Challenge, Bounty, Project]
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: The problem
+      description: What people need, and why it matters.
+    validations:
+      required: true
+  - type: textarea
+    id: limits
+    attributes:
+      label: The limits
+      description: Sizes, power, heat, formats and anything else the work has to fit.
+    validations:
+      required: true
+  - type: textarea
+    id: bar
+    attributes:
+      label: The bar
+      description: What counts as done, and how it will be checked.
+    validations:
+      required: true
+  - type: textarea
+    id: submit
+    attributes:
+      label: How to submit
+    validations:
+      required: true
+  - type: textarea
+    id: reward
+    attributes:
+      label: What you get
+      description: Credit, prize or payment, and when it's paid.
+    validations:
+      required: true
+  - type: input
+    id: deadline
+    attributes:
+      label: Deadline
+      placeholder: None

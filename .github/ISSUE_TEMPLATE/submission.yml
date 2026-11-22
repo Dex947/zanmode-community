@@ -1,0 +1,55 @@
+name: Submission
+description: Send in your work for a brief.
+labels: [submission]
+body:
+  - type: input
+    id: brief
+    attributes:
+      label: Brief
+      description: Link to the brief you're answering.
+    validations:
+      required: true
+  - type: dropdown
+    id: studio
+    attributes:
+      label: Studio
+      options: [Design, Hardware, Software, Test, Stories]
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What you made
+      description: A short note on what it is and how it's meant to be used.
+    validations:
+      required: true
+  - type: textarea
+    id: files
+    attributes:
+      label: Files and links
+      description: Everything the brief asks for. Drag files in here or link to them.
+    validations:
+      required: true
+  - type: textarea
+    id: others
+    attributes:
+      label: Anything you used that isn't yours
+      description: Fonts, models, code, music or photos, with their licences. Write "None" if there's nothing.
+    validations:
+      required: true
+  - type: input
+    id: team
+    attributes:
+      label: Made with
+      description: GitHub handles of anyone who made this with you, so they get credit too.
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Before you send it
+      options:
+        - label: This is my own work, or I have the right to use everything in it.
+          required: true
+        - label: It contains nothing confidential from an employer or anyone else.
+          required: true
+        - label: I've read the terms in the brief for what happens if it's accepted.
+          required: true

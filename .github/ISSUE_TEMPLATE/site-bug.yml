@@ -1,0 +1,39 @@
+name: Site bug
+description: Something wrong on zanmode.com or in the Lab.
+labels: [bug, site]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Page
+      description: The address where it happened.
+      placeholder: https://zanmode.com/build
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: What you did
+      description: Steps to make it happen again.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What you expected
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: What happened
+      description: A screenshot or short screen recording helps.
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Device and browser
+      placeholder: Pixel 9, Chrome 141
+    validations:
+      required: true

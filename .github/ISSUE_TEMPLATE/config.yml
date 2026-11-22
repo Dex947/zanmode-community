@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Talk to the community
+    url: https://zanmode.com/discord
+    about: Studio channels, questions and events on Discord.
+  - name: Ideas and questions
+    url: https://github.com/Dex947/zanmode-community/discussions
+    about: Start a thread in Discussions.
+  - name: Report a security issue
+    url: https://github.com/Dex947/zanmode-community/blob/main/SECURITY.md
+    about: Please report security problems privately, not in an issue.
