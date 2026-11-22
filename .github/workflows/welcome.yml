@@ -1,0 +1,27 @@
+name: Welcome
+
+on:
+  issues:
+    types: [opened]
+  pull_request_target:
+    types: [opened]
+
+permissions:
+  issues: write
+  pull-requests: write
+
+jobs:
+  greet:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/first-interaction@v1
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          issue-message: |
+            Thanks for opening your first issue here. Someone from the studio will reply within two days.
+
+            While you wait, say hello on [Discord](https://zanmode.com/discord), and have a look at how [recognition](https://github.com/Dex947/zanmode-community/blob/main/RECOGNITION.md) works.
+          pr-message: |
+            Thanks for your first pull request. Someone from the studio will review it within two days.
+
+            Make sure each commit is signed off (`git commit -s`), as [CONTRIBUTING.md](https://github.com/Dex947/zanmode-community/blob/main/CONTRIBUTING.md) explains.
