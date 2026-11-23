@@ -1,6 +1,6 @@
 # Leaderboard, 2026-Q4
 
-Updated 2026-11-22. Points only count once work is accepted. [How it works](RECOGNITION.md).
+Updated 2026-11-23. Points only count once work is accepted. [How it works](RECOGNITION.md).
 
 ## Overall
 
