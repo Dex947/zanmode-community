@@ -2,6 +2,8 @@
 
 For electronics, mechanical, thermal and radio engineers, and repairers.
 
+To join, apply at [zanmode.com/join](https://zanmode.com/join). You answer a real case, and once you're accepted you get the studio's channel and briefs.
+
 ## What the studio makes
 
 - Cases, docks, stands, chargers and other accessories.

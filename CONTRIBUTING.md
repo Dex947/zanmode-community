@@ -4,9 +4,10 @@ Thanks for wanting to help. Here's how to take part.
 
 ## Start here
 
-1. Join the [Discord](https://zanmode.com/discord) and pick your studios when it asks. You'll get the channels for them.
-2. Say hello in #introductions: what you do and what you'd like to make.
-3. Briefs aren't open yet. When they are, they'll be announced in [Announcements](../../discussions/categories/announcements). Until then, share what you've made in [Show and tell](../../discussions/categories/show-and-tell) and post ideas in [Ideas](../../discussions/categories/ideas).
+1. Join the [Discord](https://zanmode.com/discord). The lobby is open to everyone.
+2. To join a studio, apply at [zanmode.com/join](https://zanmode.com/join). You answer a real case, and if you're accepted you get the studio's channels and briefs.
+3. Say hello in #introductions: what you do and what you'd like to make.
+4. Studio members pick up [briefs](../../issues?q=is%3Aopen+label%3Abrief), and each new one is announced in [Announcements](../../discussions/categories/announcements). If you're new to a studio, start with its starter brief. Anyone can share what they've made in [Show and tell](../../discussions/categories/show-and-tell) and post ideas in [Ideas](../../discussions/categories/ideas).
 
 ## Ways to help
 

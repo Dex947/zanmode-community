@@ -2,6 +2,8 @@
 
 For testers, bug hunters and security specialists.
 
+To join, apply at [zanmode.com/join](https://zanmode.com/join). You answer a real case, and once you're accepted you get the studio's channel and briefs.
+
 ## What the studio does
 
 - Try the Lab on different phones, tablets and computers, and report what breaks or confuses you.

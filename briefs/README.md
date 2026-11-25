@@ -1,6 +1,6 @@
 # Briefs
 
-A brief is a piece of work we want done. None are open yet. When they open they'll be [issues labelled brief](../../../issues?q=is%3Aopen+label%3Abrief), and each new one is announced in [Announcements](../../../discussions/categories/announcements).
+A brief is a piece of work we want done. Open briefs are [issues labelled brief](../../../issues?q=is%3Aopen+label%3Abrief), and each new one is announced in [Announcements](../../../discussions/categories/announcements). If you've just joined a studio, start with its [starter brief](../../../issues?q=is%3Aopen+label%3A%22kind%3A+starter%22).
 
 ## What every brief says
 
@@ -11,10 +11,11 @@ A brief is a piece of work we want done. None are open yet. When they open they'
 - What you get: credit, a prize, a payment or a mix.
 - The deadline, if there is one.
 
-## Three kinds
+## Four kinds
 
 | Kind | What it is | How it's judged |
 |---|---|---|
+| Starter | A small first piece for people who've just joined a studio | Every piece that meets the bar is accepted |
 | Challenge | Many people enter, a few are picked | A jury scores every entry against the criteria in the brief. People who use the Lab also vote and together count as one juror |
 | Bounty | One person or team does it for a set payment | It meets the bar in the brief |
 | Project | Bigger work in stages | Each stage is agreed up front and reviewed when it's done |

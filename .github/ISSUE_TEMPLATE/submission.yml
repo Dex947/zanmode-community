@@ -17,12 +17,29 @@ body:
     validations:
       required: true
   - type: textarea
+    id: problem
+    attributes:
+      label: The problem as you see it
+      description: What the brief needs, and what's really in the way.
+    validations:
+      required: true
+  - type: textarea
     id: what
     attributes:
       label: What you made
       description: A short note on what it is and how it's meant to be used.
     validations:
       required: true
+  - type: textarea
+    id: risks
+    attributes:
+      label: Risks and trade-offs
+      description: What could go wrong, and what it costs the person who uses it.
+  - type: textarea
+    id: check
+    attributes:
+      label: What still needs checking
+      description: Anything you couldn't check yourself, and what you'd check first.
   - type: textarea
     id: files
     attributes:

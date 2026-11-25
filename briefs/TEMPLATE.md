@@ -1,7 +1,7 @@
 # Brief: <short name>
 
 Studio: <Design, Hardware, Software, Test or Stories>
-Kind: <Challenge, Bounty or Project>
+Kind: <Starter, Challenge, Bounty or Project>
 Open to: <Everyone or contributors in the studio>
 Deadline: <date or none>
 

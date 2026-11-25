@@ -2,6 +2,8 @@
 
 For video creators, writers, translators and hosts.
 
+To join, apply at [zanmode.com/join](https://zanmode.com/join). You answer a real case, and once you're accepted you get the studio's channel and briefs.
+
 ## What the studio makes
 
 - Guides on building a phone for gaming, photos, battery life or a small hand.

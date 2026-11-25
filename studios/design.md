@@ -2,6 +2,8 @@
 
 For industrial designers, colour and finish designers, visual and motion designers, sound designers and 3D artists.
 
+To join, apply at [zanmode.com/join](https://zanmode.com/join). You answer a real case, and once you're accepted you get the studio's channel and briefs.
+
 ## What the studio makes
 
 - Ready-made looks for people who'd rather not design their own: a back, a camera island, and colours and finishes that work together.

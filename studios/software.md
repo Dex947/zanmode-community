@@ -2,6 +2,8 @@
 
 For app, system and tools developers, and accessibility specialists.
 
+To join, apply at [zanmode.com/join](https://zanmode.com/join). You answer a real case, and once you're accepted you get the studio's channel and briefs.
+
 ## What the studio makes
 
 - Themes and lock screens.
